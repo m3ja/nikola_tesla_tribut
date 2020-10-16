@@ -1,0 +1,23 @@
+body
+{
+  background: #75a3a3;
+  color: white;
+  font-family: cursive;
+  text-align: center;
+}
+
+#img-caption
+{
+  font-size:30px;
+ text-align: center;
+  
+  
+}
+#image
+{
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  
+}
